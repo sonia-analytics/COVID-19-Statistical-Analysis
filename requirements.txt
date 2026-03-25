@@ -1,6 +1,4 @@
 pandas
-numpy
+scipy
 matplotlib
 seaborn
-scipy
-jupyter
